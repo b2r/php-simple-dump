@@ -3,6 +3,8 @@ b2rPHP: SimpleDump
 
 Simple `var_dump` wrapper
 
+[![Build Status](https://travis-ci.org/b2r/php-simple-dump.svg?branch=master)](https://travis-ci.org/b2r/php-simple-dump)
+
 - [CHANGELOG](CHANGELOG.md)
 
 ## Summary
